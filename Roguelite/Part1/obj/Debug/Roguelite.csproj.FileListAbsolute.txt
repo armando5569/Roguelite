@@ -1,0 +1,17 @@
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\bin\Debug\Part1.exe.config
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\bin\Debug\Part1.exe.manifest
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\bin\Debug\Part1.application
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\bin\Debug\Part1.exe
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\bin\Debug\Part1.pdb
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\obj\Debug\Part1.Combat.resources
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\obj\Debug\Part1.Form1.resources
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\obj\Debug\Part1.GameOverScreen.resources
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\obj\Debug\Part1.InventoryScreen.resources
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\obj\Debug\Part1.Properties.Resources.resources
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\obj\Debug\Part1.StartScreen.resources
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\obj\Debug\Roguelite.csproj.GenerateResource.Cache
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\obj\Debug\Roguelite.csproj.CoreCompileInputs.cache
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\obj\Debug\Part1.exe.manifest
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\obj\Debug\Part1.application
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\obj\Debug\Part1.exe
+C:\Users\teehe\Desktop\cs_spring2018\Roguelite\Part1\obj\Debug\Part1.pdb
